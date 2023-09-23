@@ -5,7 +5,6 @@ public class WeatherReport {
     private double temperature;
     private double humidity;
 
-
     public double getTemperature() {
         return temperature;
     }
